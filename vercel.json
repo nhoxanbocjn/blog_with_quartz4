@@ -1,8 +1,7 @@
 {
-  "buildCommand": "npx quartz build",
+  "buildCommand": "npx quartz build && sh postbuild.sh",
   "outputDirectory": "public",
   "installCommand": "npm ci",
   "framework": null,
-  "cleanUrls": true,
   "trailingSlash": false
 }
