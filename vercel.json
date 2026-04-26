@@ -1,6 +1,3 @@
 {
-  "buildCommand": "npx quartz build",
-  "outputDirectory": "public",
-  "installCommand": "npm ci",
-  "framework": null
+  "cleanUrls": true
 }
