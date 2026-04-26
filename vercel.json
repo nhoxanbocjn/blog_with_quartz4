@@ -3,9 +3,6 @@
   "outputDirectory": "public",
   "installCommand": "npm ci",
   "framework": null,
-  "routes": [
-    { "handle": "filesystem" },
-    { "src": "/(.+)", "dest": "/$1.html" },
-    { "src": "/(.*)", "dest": "/404.html", "status": 404 }
-  ]
+  "cleanUrls": true,
+  "trailingSlash": false
 }
