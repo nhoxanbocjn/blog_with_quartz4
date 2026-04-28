@@ -1,7 +1,6 @@
 ---
-title: Welcome to Quartz
+title: My Knowledge for Data Engineer Career Path🤦‍♂️
 ---
 
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+HiHi ~ Hello Everyone
+Welcome to my note !
