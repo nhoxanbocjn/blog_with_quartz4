@@ -2,7 +2,8 @@
 title: Dynamo DB
 draft: false
 tags:
-  - data
+  - data 
+  - aws
 ---
 [[data]]
 [[database]]
