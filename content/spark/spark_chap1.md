@@ -1,6 +1,6 @@
 ---
 title: Chap 1
-tags: Spark
+tags: spark
 ---
 
 - Apache Spark is an Open source analytics engine for large-scale data processing” and machine learning applications
